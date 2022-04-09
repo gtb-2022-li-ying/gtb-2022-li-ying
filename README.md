@@ -8,5 +8,7 @@ l come from shannxi
 I am a tall girl, I have 172cm
 I showed some photos here
 ![](https://github.com/gtb-2022-li-ying/gtb-2022-li-ying/blob/main/1.png.png)
+![](https://github.com/gtb-2022-li-ying/gtb-2022-li-ying/blob/main/IMG_2467.JPG)
+![](https://github.com/gtb-2022-li-ying/gtb-2022-li-ying/blob/main/README.md)
 Ok,that's all.l hope that you are satisfied with me
 thankyou!
