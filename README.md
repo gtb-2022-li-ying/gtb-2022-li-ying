@@ -6,8 +6,7 @@ My name is Lin Ying
 I'm 20 years old
 l come from shannxi
 I am a tall girl, I have 172cm
-because I am not beautiful ,so I do not want wo show my picture . 
-I am sorry about this.
+I showed some photos here
+![](https://github.com/gtb-2022-li-ying/gtb-2022-li-ying/blob/main/1.png.png)
 Ok,that's all.l hope that you are satisfied with me
 thankyou!
-
